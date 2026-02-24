@@ -18,13 +18,13 @@ ru_RU) - Создаёт оценки по трём предметам - Расс
 1.  Клонируйте репозиторий:
 
 ```
-    git clone https://github.com/Qmndrn/MatStforDS_1.git
+git clone https://github.com/Qmndrn/MatStforDS_1.git
 ```
 
 2.  Перейдите в директорию проекта:
 
 ```
-    cd MatStforDS_1
+cd MatStforDS_1
 ```
 
 3.  Установите зависимости:
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 Если файла `requirements.txt` нет, установите вручную:
 ```
-    pip install pandas faker
+pip install pandas faker
 ```
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 Запуск скрипта:
 ```
-    python main.py
+python main.py
 ```
 ------------------------------------------------------------------------
 
