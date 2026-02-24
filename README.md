@@ -18,7 +18,7 @@ ru_RU) - Создаёт оценки по трём предметам - Расс
 1.  Клонируйте репозиторий:
 
 ```
-(https://github.com/Qmndrn/MatStforDS_1.git)
+https://github.com/Qmndrn/MatStforDS_1.git
 ```
     git clone https://github.com/Qmndrn/MatStforDS_1.git
 
